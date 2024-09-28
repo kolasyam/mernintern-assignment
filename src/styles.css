@@ -1,0 +1,5 @@
+.custom-background {
+    background-color: #edd4d5;
+     /* Your desired background color */
+    min-height: 100vh; /* Ensures the background covers the entire viewport height */
+}
